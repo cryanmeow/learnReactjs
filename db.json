@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1584373213567,
+      "title": "Cryan",
+      "body": "cryan fajri",
+      "userid": 1
+    },
+    {
+      "id": 1584373488822,
+      "title": "React JS",
+      "body": "Framework JS",
+      "userid": 1
+    },
+    {
+      "id": 1584373496569,
+      "title": "Vue JS",
+      "body": "Framework Javascript",
+      "userid": 1
+    },
+    {
+      "id": 1584375284079,
+      "title": "Angular JS",
+      "body": "Framework Javascript",
+      "userid": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

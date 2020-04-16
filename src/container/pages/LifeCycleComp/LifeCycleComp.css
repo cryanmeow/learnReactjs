@@ -1,0 +1,9 @@
+.component-button {
+  padding: 10px 6px;
+  background: #2c3e50;
+  color: #fff;
+  border: none;
+  margin: 30px;
+  cursor: pointer;
+  border-radius: 6px;
+}
